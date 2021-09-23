@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(495,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  ConvexDecompositionDemo.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\HACD\hacdCircularList.h(18,9): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory (compiling source file ..\..\Demos\ConvexDecompositionDemo\ConvexDecompositionDemo.cpp)
+  main.cpp
+  Win32ConvexDecompositionDemo.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Demos\OpenGL\GlutStuff.h(19,10): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory (compiling source file ..\..\Demos\ConvexDecompositionDemo\main.cpp)

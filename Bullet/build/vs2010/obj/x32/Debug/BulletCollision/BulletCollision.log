@@ -1,0 +1,185 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(495,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  btAxisSweep3.cpp
+  btBroadphaseProxy.cpp
+  btCollisionAlgorithm.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\BroadphaseCollision\btAxisSweep3.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\BroadphaseCollision\btBroadphaseProxy.cpp)
+  btDbvt.cpp
+  btDbvtBroadphase.cpp
+  btDispatcher.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\BroadphaseCollision\btCollisionAlgorithm.cpp)
+  btMultiSapBroadphase.cpp
+  btOverlappingPairCache.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\BroadphaseCollision\btMultiSapBroadphase.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\BroadphaseCollision\btDbvtBroadphase.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\BroadphaseCollision\btOverlappingPairCache.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\BroadphaseCollision\btDispatcher.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\BroadphaseCollision\btDbvt.cpp)
+  btQuantizedBvh.cpp
+  btSimpleBroadphase.cpp
+  btActivatingCollisionAlgorithm.cpp
+  btBox2dBox2dCollisionAlgorithm.cpp
+  btBoxBoxCollisionAlgorithm.cpp
+  btBoxBoxDetector.cpp
+  btCollisionDispatcher.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\BroadphaseCollision\btQuantizedBvh.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btCollisionDispatcher.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btActivatingCollisionAlgorithm.cpp)
+  btCollisionObject.cpp
+  btCollisionWorld.cpp
+  btCompoundCollisionAlgorithm.cpp
+  btConvex2dConvex2dAlgorithm.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btBoxBoxDetector.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\BroadphaseCollision\btSimpleBroadphase.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btBox2dBox2dCollisionAlgorithm.cpp)
+  btConvexConcaveCollisionAlgorithm.cpp
+  btConvexConvexAlgorithm.cpp
+  btConvexPlaneCollisionAlgorithm.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btCollisionWorld.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btCollisionObject.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btConvex2dConvex2dAlgorithm.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btBoxBoxCollisionAlgorithm.cpp)
+  btDefaultCollisionConfiguration.cpp
+  btEmptyCollisionAlgorithm.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btConvexConcaveCollisionAlgorithm.cpp)
+  btGhostObject.cpp
+  btInternalEdgeUtility.cpp
+  btManifoldResult.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btCompoundCollisionAlgorithm.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btConvexPlaneCollisionAlgorithm.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btConvexConvexAlgorithm.cpp)
+  btSimulationIslandManager.cpp
+  btSphereBoxCollisionAlgorithm.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btGhostObject.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btInternalEdgeUtility.cpp)
+  btSphereSphereCollisionAlgorithm.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btEmptyCollisionAlgorithm.cpp)
+  btSphereTriangleCollisionAlgorithm.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btDefaultCollisionConfiguration.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btManifoldResult.cpp)
+  btUnionFind.cpp
+  SphereTriangleDetector.cpp
+  btBox2dShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btSimulationIslandManager.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btSphereBoxCollisionAlgorithm.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btSphereSphereCollisionAlgorithm.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\SphereTriangleDetector.cpp)
+  btBoxShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btSphereTriangleCollisionAlgorithm.cpp)
+  btBvhTriangleMeshShape.cpp
+  btCapsuleShape.cpp
+  btCollisionShape.cpp
+  btCompoundShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionDispatch\btUnionFind.cpp)
+  btConcaveShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btBox2dShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btCollisionShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btBvhTriangleMeshShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btCapsuleShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btBoxShape.cpp)
+  btConeShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btConcaveShape.cpp)
+  btConvex2dShape.cpp
+  btConvexHullShape.cpp
+  btConvexInternalShape.cpp
+  btConvexPointCloudShape.cpp
+  btConvexPolyhedron.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btCompoundShape.cpp)
+  btConvexShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btConeShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btConvex2dShape.cpp)
+  btConvexTriangleMeshShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btConvexInternalShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btConvexHullShape.cpp)
+  btCylinderShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btConvexShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btConvexPolyhedron.cpp)
+  btEmptyShape.cpp
+  btHeightfieldTerrainShape.cpp
+  btMinkowskiSumShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btConvexTriangleMeshShape.cpp)
+  btMultimaterialTriangleMeshShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btConvexPointCloudShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btEmptyShape.cpp)
+  btMultiSphereShape.cpp
+  btOptimizedBvh.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btHeightfieldTerrainShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btCylinderShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btMultimaterialTriangleMeshShape.cpp)
+  btPolyhedralConvexShape.cpp
+  btScaledBvhTriangleMeshShape.cpp
+  btShapeHull.cpp
+  btSphereShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btMinkowskiSumShape.cpp)
+  btStaticPlaneShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btMultiSphereShape.cpp)
+  btStridingMeshInterface.cpp
+  btTetrahedronShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btStridingMeshInterface.cpp)
+  btTriangleBuffer.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btScaledBvhTriangleMeshShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btStaticPlaneShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btOptimizedBvh.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btPolyhedralConvexShape.cpp)
+  btTriangleCallback.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btSphereShape.cpp)
+  btTriangleIndexVertexArray.cpp
+  btTriangleIndexVertexMaterialArray.cpp
+  btTriangleMesh.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btShapeHull.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btTetrahedronShape.cpp)
+  btTriangleMeshShape.cpp
+  btUniformScalingShape.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btTriangleCallback.cpp)
+  btContactProcessing.cpp
+  btGenericPoolAllocator.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btTriangleMesh.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btTriangleIndexVertexArray.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btTriangleBuffer.cpp)
+  btGImpactBvh.cpp
+  btGImpactCollisionAlgorithm.cpp
+  btGImpactQuantizedBvh.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\btContactProcessing.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btUniformScalingShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btTriangleMeshShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\BulletCollision\Gimpact\btGenericPoolAllocator.h(25,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\btGenericPoolAllocator.cpp)
+  btGImpactShape.cpp
+  btTriangleShapeEx.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\CollisionShapes\btTriangleIndexVertexMaterialArray.cpp)
+  gim_box_set.cpp
+  gim_contact.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\btGImpactCollisionAlgorithm.cpp)
+  gim_memory.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\btGImpactQuantizedBvh.cpp)
+  gim_tri_collision.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\btGImpactBvh.cpp)
+  btContinuousConvexCollision.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\gim_contact.cpp)
+  btConvexCast.cpp
+  btGjkConvexCast.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\gim_box_set.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\btTriangleShapeEx.cpp)
+  btGjkEpa2.cpp
+  btGjkEpaPenetrationDepthSolver.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\gim_memory.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\btGImpactShape.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btContinuousConvexCollision.cpp)
+  btGjkPairDetector.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\Gimpact\gim_tri_collision.cpp)
+  btMinkowskiPenetrationDepthSolver.cpp
+  btPersistentManifold.cpp
+  btPolyhedralContactClipping.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btConvexCast.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btGjkConvexCast.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btGjkEpaPenetrationDepthSolver.cpp)
+  btRaycastCallback.cpp
+  btSubSimplexConvexCast.cpp
+  btVoronoiSimplexSolver.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btGjkEpa2.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btPolyhedralContactClipping.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btSubSimplexConvexCast.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btMinkowskiPenetrationDepthSolver.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btRaycastCallback.cpp)
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\src\LinearMath\btScalar.h(26,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory (compiling source file ..\..\src\BulletCollision\NarrowPhaseCollision\btVoronoiSimplexSolver.cpp)

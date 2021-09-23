@@ -1,0 +1,28 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(495,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  bestfit.cpp
+  bestfitobb.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\bestfit.cpp(2,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  cd_hull.cpp
+  cd_wavefront.cpp
+  concavity.cpp
+  ConvexBuilder.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\bestfitobb.cpp(3,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  ConvexDecomposition.cpp
+  fitsphere.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\cd_wavefront.cpp(1,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\concavity.cpp(2,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  float_math.cpp
+  meshvolume.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\ConvexDecomposition.cpp(3,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\ConvexDecomposition.h(41,10): fatal error C1083: Cannot open include file: 'memory.h': No such file or directory (compiling source file ..\..\Extras\ConvexDecomposition\ConvexBuilder.cpp)
+  planetri.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\cd_hull.cpp(3,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  raytri.cpp
+  splitplane.cpp
+  vlookup.cpp
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\fitsphere.cpp(1,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\float_math.cpp(3,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\vlookup.cpp(2,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\raytri.cpp(2,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\planetri.cpp(2,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+C:\Users\student\Documents\GitHub\Game-Physics\Bullet\Extras\ConvexDecomposition\splitplane.cpp(2,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory

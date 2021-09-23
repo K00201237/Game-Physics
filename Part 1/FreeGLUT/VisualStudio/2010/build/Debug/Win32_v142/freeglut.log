@@ -1,0 +1,53 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(495,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  freeglut_window.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_videoresize.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_teapot.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_structure.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_stroke_roman.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_stroke_mono_roman.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_state.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_spaceball.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_overlay.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_misc.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_menu.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_main.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_joystick.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_input_devices.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_init.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_glutfont_definitions.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_geometry.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_gamemode.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_font_data.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_font.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  Generating Code...
+  Compiling...
+  freeglut_ext.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_display.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_cursor.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_callbacks.c
+C:\Users\student\Documents\GitHub\Game-Physics\Part 1\FreeGLUT\include\GL\freeglut_std.h(63,13): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  Generating Code...
